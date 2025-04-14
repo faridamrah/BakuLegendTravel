@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# BakuLegendTravel
+=======
+>>>>>>> 9617679 (Baku)
 # Baku Legend Travel Website
 
 A modern, responsive website for Baku Legend Travel agency built with Next.js and TailwindCSS.
@@ -81,3 +87,7 @@ yarn start
 - TypeScript
 - Tailwind CSS
 - ESLint
+<<<<<<< HEAD
+=======
+>>>>>>> fcd7d43 (Test)
+>>>>>>> 9617679 (Baku)
